@@ -1,1 +1,0 @@
-chatgpt_apikey = "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"
